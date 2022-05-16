@@ -1,0 +1,120 @@
+{
+  "main": {
+    "id": "c30fa39394c95ffb",
+    "type": "split",
+    "children": [
+      {
+        "id": "99518f9b63e70dd7",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b37eb6b40eda389c",
+    "type": "split",
+    "children": [
+      {
+        "id": "22cb795d1bcfeb23",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "573ae4ef5b63e37b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "852e73ad433384e3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#nodejs",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 243
+  },
+  "right": {
+    "id": "d8f14d8fac222fee",
+    "type": "split",
+    "children": [
+      {
+        "id": "eeb2de40ff3e80ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1e6ff236e4ce61b7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0b3cf01fabc7de0d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "67b7b773374d92cd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "99518f9b63e70dd7",
+  "lastOpenFiles": [
+    "1 - Templates/Notas Rápidas.md",
+    "1 - Templates/Notas Permanentes.md",
+    "2 - Notas Rápidas/Untitled.md",
+    "2 - Notas Rápidas/NR20210807231036 - Git Flow - Dicionário do Programador (Vídeo).md",
+    "2 - Notas Rápidas/NR20210807231423 - Using git-flow to automate your git branching workflow.md",
+    "2 - Notas Rápidas/NR20210807231333 - A successful Git branching model (Git Flow).md",
+    "2 - Notas Rápidas/NR20210730233050 - Golang biblioteca para criação de CLI (Cobra).md",
+    "3 - Notas Permanentes/NP20210712204653 - Connection Pool utilizando Python + psycopg2.md",
+    "2 - Notas Rápidas/NR20210712011734 - Zettelkasten - Template.md",
+    "6 - Postmortem/PM20210719230146 - Usar scripts Python ao invés de Shell Script.md"
+  ]
+}
