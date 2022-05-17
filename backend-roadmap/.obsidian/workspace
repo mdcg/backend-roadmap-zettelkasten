@@ -7,7 +7,7 @@
         "id": "99518f9b63e70dd7",
         "type": "leaf",
         "state": {
-          "type": "empty",
+          "type": "graph",
           "state": {}
         }
       }
@@ -49,7 +49,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243
+    "width": 421
   },
   "right": {
     "id": "d8f14d8fac222fee",
@@ -106,15 +106,15 @@
   },
   "active": "99518f9b63e70dd7",
   "lastOpenFiles": [
+    "3 - Notas Permanentes/NP20220516223833 - Como a Internet funciona?.md",
+    "2 - Notas Rápidas/NR20220516224732 - The Internet, explained (Timothy B. Lee).md",
+    "2 - Notas Rápidas/NR20220516224908 - How Does the Internet Work? (Rus Shuler).md",
+    "2 - Notas Rápidas/NR20220516225021 - How does the internet work? (Dmytro Bolkachov).md",
+    "2 - Notas Rápidas/NR20220516225212 - How does the INTERNET work? (Youtube).md",
+    "2 - Notas Rápidas/NR20220516225338 - How the Internet Works in 5 Minutes (Youtube).md",
     "1 - Templates/Notas Rápidas.md",
     "1 - Templates/Notas Permanentes.md",
-    "2 - Notas Rápidas/Untitled.md",
     "2 - Notas Rápidas/NR20210807231036 - Git Flow - Dicionário do Programador (Vídeo).md",
-    "2 - Notas Rápidas/NR20210807231423 - Using git-flow to automate your git branching workflow.md",
-    "2 - Notas Rápidas/NR20210807231333 - A successful Git branching model (Git Flow).md",
-    "2 - Notas Rápidas/NR20210730233050 - Golang biblioteca para criação de CLI (Cobra).md",
-    "3 - Notas Permanentes/NP20210712204653 - Connection Pool utilizando Python + psycopg2.md",
-    "2 - Notas Rápidas/NR20210712011734 - Zettelkasten - Template.md",
-    "6 - Postmortem/PM20210719230146 - Usar scripts Python ao invés de Shell Script.md"
+    "2 - Notas Rápidas/NR20210807231423 - Using git-flow to automate your git branching workflow.md"
   ]
 }
