@@ -7,8 +7,11 @@
         "id": "99518f9b63e70dd7",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "3 - Notas Permanentes/NP20220516223833 - Como a Internet funciona?.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "3 - Notas Permanentes/NP20220516223833 - Como a Internet funciona?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,6 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "3 - Notas Permanentes/NP20220516223833 - Como a Internet funciona?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
