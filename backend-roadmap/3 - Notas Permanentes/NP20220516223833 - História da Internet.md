@@ -10,6 +10,7 @@
 	- [[NR20220516225338 - How the Internet Works in 5 Minutes (Youtube)]]
 	- [[NR20220516225021 - How does the internet work? (Dmytro Bolkachov)]]
 	- [[NR20220524202712 - História da Internet]]
+	- [[NR20220525001900 - História da Internet (anos 60 - 80)]]
 **Notas de Literatura:**
 	- [[]]
 **Tags:**  #internet

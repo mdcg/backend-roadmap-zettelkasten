@@ -7,11 +7,8 @@
         "id": "99518f9b63e70dd7",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "3 - Notas Permanentes/NP20220516223833 - História da Internet.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Notas Permanentes/NP20220516223833 - História da Internet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +92,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 - Notas Permanentes/NP20220516223833 - História da Internet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,6 +107,7 @@
   "active": "99518f9b63e70dd7",
   "lastOpenFiles": [
     "3 - Notas Permanentes/NP20220516223833 - História da Internet.md",
+    "2 - Notas Rápidas/NR20220525001900 - História da Internet (anos 60 - 80).md",
     "2 - Notas Rápidas/NR20220516225021 - How does the internet work? (Dmytro Bolkachov).md",
     "2 - Notas Rápidas/NR20220516224908 - How Does the Internet Work? (Rus Shuler).md",
     "2 - Notas Rápidas/NR20220516224732 - The Internet, explained (Timothy B. Lee).md",
@@ -119,7 +115,6 @@
     "2 - Notas Rápidas/NR20220516225212 - How does the INTERNET work? (Youtube).md",
     "2 - Notas Rápidas/NR20220516225338 - How the Internet Works in 5 Minutes (Youtube).md",
     "1 - Templates/Notas Rápidas.md",
-    "1 - Templates/Notas Permanentes.md",
-    "2 - Notas Rápidas/NR20210807231036 - Git Flow - Dicionário do Programador (Vídeo).md"
+    "1 - Templates/Notas Permanentes.md"
   ]
 }
