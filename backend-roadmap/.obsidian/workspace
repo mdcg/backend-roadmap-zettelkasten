@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "3 - Notas Permanentes/NP20220516223833 - Como a Internet funciona?.md",
+            "file": "3 - Notas Permanentes/NP20220516223833 - História da Internet.md",
             "mode": "source"
           }
         }
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 421
+    "width": 504
   },
   "right": {
     "id": "d8f14d8fac222fee",
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Notas Permanentes/NP20220516223833 - Como a Internet funciona?.md",
+                "file": "3 - Notas Permanentes/NP20220516223833 - História da Internet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 - Notas Permanentes/NP20220516223833 - Como a Internet funciona?.md",
+                "file": "3 - Notas Permanentes/NP20220516223833 - História da Internet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,15 +111,15 @@
   },
   "active": "99518f9b63e70dd7",
   "lastOpenFiles": [
-    "3 - Notas Permanentes/NP20220516223833 - Como a Internet funciona?.md",
-    "2 - Notas Rápidas/NR20220516224732 - The Internet, explained (Timothy B. Lee).md",
-    "2 - Notas Rápidas/NR20220516224908 - How Does the Internet Work? (Rus Shuler).md",
+    "3 - Notas Permanentes/NP20220516223833 - História da Internet.md",
     "2 - Notas Rápidas/NR20220516225021 - How does the internet work? (Dmytro Bolkachov).md",
+    "2 - Notas Rápidas/NR20220516224908 - How Does the Internet Work? (Rus Shuler).md",
+    "2 - Notas Rápidas/NR20220516224732 - The Internet, explained (Timothy B. Lee).md",
+    "2 - Notas Rápidas/NR20220524202712 - História da Internet.md",
     "2 - Notas Rápidas/NR20220516225212 - How does the INTERNET work? (Youtube).md",
     "2 - Notas Rápidas/NR20220516225338 - How the Internet Works in 5 Minutes (Youtube).md",
     "1 - Templates/Notas Rápidas.md",
     "1 - Templates/Notas Permanentes.md",
-    "2 - Notas Rápidas/NR20210807231036 - Git Flow - Dicionário do Programador (Vídeo).md",
-    "2 - Notas Rápidas/NR20210807231423 - Using git-flow to automate your git branching workflow.md"
+    "2 - Notas Rápidas/NR20210807231036 - Git Flow - Dicionário do Programador (Vídeo).md"
   ]
 }
