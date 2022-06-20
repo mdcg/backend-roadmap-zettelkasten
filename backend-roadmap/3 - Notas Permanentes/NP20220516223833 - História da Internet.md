@@ -1,5 +1,5 @@
 # Como a Internet funciona?
-    
+
 **Hash:** NP20220516223833
 **Notas Permanentes:** 
 	- [[]]
