@@ -7,7 +7,6 @@
 	- [[NR202206191826 - HTTP Overview (MDN)]]
 	- [[NR202206191831 - HTTP Tópicos diversos (MDN)]]
 	- [[NR202206192111 - What is HTTP?]]
-	- [[NP202206191833 - Visão geral sobre o HTTP]]
 	- [[NR202206192059 - Um pouco mais sobre o protocolo HTTP]]
 	- [[NR202206192113 - RFC 2616]]
 **Notas de Literatura:**
