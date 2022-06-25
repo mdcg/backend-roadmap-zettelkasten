@@ -5,10 +5,10 @@
 	- [[]]
 **Notas Rápidas:**
 	- [[NR20220516225212 - How does the INTERNET work? (Youtube)]]
-	- [[NR20220516224908 - How Does the Internet Work? (Rus Shuler)]]
-	- [[NR20220516224732 - The Internet, explained (Timothy B. Lee)]]
+	- [[NR20220516224908 - How Does the Internet Work?]]
+	- [[NR20220516224732 - The Internet, explained]]
 	- [[NR20220516225338 - How the Internet Works in 5 Minutes (Youtube)]]
-	- [[NR20220516225021 - How does the internet work? (Dmytro Bolkachov)]]
+	- [[NR20220516225021 - How does the internet work?]]
 	- [[NR20220524202712 - História da Internet]]
 	- [[NR20220525001900 - História da Internet (anos 60 - 80)]]
 **Notas de Literatura:**

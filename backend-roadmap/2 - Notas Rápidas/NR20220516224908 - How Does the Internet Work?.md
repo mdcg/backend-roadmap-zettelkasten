@@ -1,3 +1,5 @@
+Texto um pouco antigo mas muito bem escrito pelo Rus Shuler.
+
 **Hash:** NR20220516224908
 **Fonte:**  
 	- (https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm)[https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm]

@@ -1,4 +1,4 @@
-Vídeo em português bastante interessante sobre a componentização de um navegador.
+Vídeo em português bastante interessante sobre a componentização de um navegador. Vídeo pertencente a Faculdade IV2 com Gabriel Azevedo.
 
 **Hash:** NR202206202324
 **Fonte:**  

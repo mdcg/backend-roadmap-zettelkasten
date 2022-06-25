@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "backend-roadmap/3 - Notas Permanentes/NP202206202316 - Componentes de um Navegador.md",
+            "file": "backend-roadmap/2 - Notas Rápidas/NR20220525001900 - História da Internet (anos 60 - 80).md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "backend-roadmap/3 - Notas Permanentes/NP202206202316 - Componentes de um Navegador.md",
+                "file": "backend-roadmap/2 - Notas Rápidas/NR20220525001900 - História da Internet (anos 60 - 80).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "140549e5b2c8d20c",
   "lastOpenFiles": [
-    "backend-roadmap/3 - Notas Permanentes/NP202206202316 - Componentes de um Navegador.md",
-    "backend-roadmap/2 - Notas Rápidas/NR202206192113 - RFC 2616.md",
-    "backend-roadmap/3 - Notas Permanentes/NP202206191833 - Visão geral sobre o HTTP.md",
-    "backend-roadmap/2 - Notas Rápidas/NR202206192059 - Um pouco mais sobre o protocolo HTTP.md",
-    "backend-roadmap/2 - Notas Rápidas/NR202206192111 - What is HTTP?.md",
-    "backend-roadmap/2 - Notas Rápidas/NR202206191831 - HTTP Tópicos diversos (MDN).md",
-    "backend-roadmap/2 - Notas Rápidas/NR202206191826 - HTTP Overview (MDN).md",
+    "backend-roadmap/2 - Notas Rápidas/NR20220525001900 - História da Internet (anos 60 - 80).md",
+    "backend-roadmap/2 - Notas Rápidas/NR20220524202712 - História da Internet.md",
+    "backend-roadmap/2 - Notas Rápidas/NR20220516225338 - How the Internet Works in 5 Minutes (Youtube).md",
+    "backend-roadmap/2 - Notas Rápidas/NR20220516225212 - How does the INTERNET work? (Youtube).md",
+    "backend-roadmap/2 - Notas Rápidas/NR20220516225021 - How does the internet work?.md",
+    "backend-roadmap/2 - Notas Rápidas/NR20220516224908 - How Does the Internet Work?.md",
+    "backend-roadmap/2 - Notas Rápidas/NR20220516224732 - The Internet, explained.md",
+    "backend-roadmap/2 - Notas Rápidas/NR202206242318 - How browsers work.md",
     "backend-roadmap/2 - Notas Rápidas/NR202206202324 - Explicando como funciona o Navegador (Youtube).md",
-    "backend-roadmap/3 - Notas Permanentes/NP20220516223833 - História da Internet.md",
-    "backend-roadmap/2 - Notas Rápidas/NR20220525001900 - História da Internet (anos 60 - 80).md"
+    "backend-roadmap/2 - Notas Rápidas/NR202206192113 - RFC 2616.md"
   ]
 }
