@@ -11,7 +11,7 @@
 	- [[NR202206192113 - RFC 2616]]
 **Notas de Literatura:**
 	- [[]]
-**Tags:**  #http 
+**Tags:**  #http #internet 
 
 **HTTP** é uma sigla para _Hypertext Transfer Protocol_, que significa: Protocolo de Transferência de Hipertexto. Basicamente, HTTP é um protocolo que permite a obtenção de recursos, como por exemplo: documentos HTML, imagens, vídeos, etc.
 
