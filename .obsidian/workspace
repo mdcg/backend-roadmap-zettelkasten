@@ -7,8 +7,11 @@
         "id": "140549e5b2c8d20c",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "backend-roadmap/3 - Notas Permanentes/NP202206202316 - Componentes de um Navegador.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "backend-roadmap/3 - Notas Permanentes/NP202206202316 - Componentes de um Navegador.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,13 +88,13 @@
   },
   "active": "140549e5b2c8d20c",
   "lastOpenFiles": [
-    "backend-roadmap/3 - Notas Permanentes/NP20220516223833 - História da Internet.md",
     "backend-roadmap/3 - Notas Permanentes/NP202206202316 - Componentes de um Navegador.md",
+    "Images/NP202206202316/browser-engine.png",
     "backend-roadmap/3 - Notas Permanentes/NP202206191833 - Visão geral sobre o HTTP.md",
+    "backend-roadmap/3 - Notas Permanentes/NP20220516223833 - História da Internet.md",
     "Images/NP202206202316/user-interface.png",
     "Images/Untitled.md",
     "backend-roadmap/2 - Notas Rápidas/NR202206192059 - Um pouco mais sobre o protocolo HTTP.md",
-    "Images/NP202206202316/BrowserEngine.png",
     "README.md",
     "backend-roadmap/2 - Notas Rápidas/NR20220525001900 - História da Internet (anos 60 - 80).md",
     "backend-roadmap/2 - Notas Rápidas/NR20220524202712 - História da Internet.md"
