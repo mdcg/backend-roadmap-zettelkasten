@@ -18,7 +18,7 @@ Mesmo com tantas opções, a essência de todos são bastante parecidas, não se
 
 ## Componentes de um navegador
 
-Muitos navegadores possuem seu código aberto (_Open Source_), o que nos ajuda a compreender um pouco mais do funcionamento e decisões por trás do desenvolvimento dos mesmos. Alguns exemplos de navegadores de código aberto são: (Firefox)[https://firefox-source-docs.mozilla.org/index.html], (Chromium)[https://www.chromium.org/Home/],  (Brave)[https://github.com/brave/brave-browser],  (Basilisk)[https://github.com/JustOff/Basilisk], etc.
+Muitos navegadores possuem seu código aberto (_Open Source_), o que nos ajuda a compreender um pouco mais do funcionamento e decisões por trás do desenvolvimento dos mesmos. Alguns exemplos de navegadores de código aberto são: [Firefox](https://firefox-source-docs.mozilla.org/index.html), [Chromium](https://www.chromium.org/Home/), [Brave](https://github.com/brave/brave-browser), [Basilisk](https://github.com/JustOff/Basilisk), etc.
 
 Olhando o código e a estrutura desses navegadores, começamos a reconhecer um certo padrão em seus componentes, são eles: **User Interface**, **Browser Engine**, **Rendering Engine**, **Networking**, **UI Backend**, **JavaScript Interpreter** e **Data Storage**. 
 
