@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "backend-roadmap/2 - Notas Rápidas/NR202209162324 - NIC.BR (Sistemas Autônomos, BGP, PTTs).md",
+            "file": "README.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "backend-roadmap/2 - Notas Rápidas/NR202209162324 - NIC.BR (Sistemas Autônomos, BGP, PTTs).md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "140549e5b2c8d20c",
   "lastOpenFiles": [
+    "backend-roadmap/2 - Notas Rápidas/NR202209162324 - NIC.BR (Sistemas Autônomos, BGP, PTTs).md",
     "backend-roadmap/2 - Notas Rápidas/NR202209162314 - NIC.BR (O protocolo IP).md",
     "backend-roadmap/2 - Notas Rápidas/NR202207042047 - NIC.BR (DNS).md",
     "NIC.BR (O protocolo IP).md",
@@ -97,7 +98,6 @@
     "backend-roadmap/2 - Notas Rápidas/NR202206242318 - How browsers work.md",
     "backend-roadmap/3 - Notas Permanentes/NP20220516223833 - História da Internet.md",
     "backend-roadmap/2 - Notas Rápidas/NR202206260031 - Understanding the Role of Rendering Engine in Browsers.md",
-    "backend-roadmap/2 - Notas Rápidas/NR202206252157 - How browsers work (MDN).md",
-    "backend-roadmap/2 - Notas Rápidas/NR202206202324 - Explicando como funciona o Navegador (Youtube).md"
+    "backend-roadmap/2 - Notas Rápidas/NR202206252157 - How browsers work (MDN).md"
   ]
 }
