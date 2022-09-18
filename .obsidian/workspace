@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "backend-roadmap/2 - Notas Rápidas/NR202209180025 - What is a Domain Name? (Youtube).md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "DNS",
+                "query": "tag:#domain-name",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "backend-roadmap/2 - Notas Rápidas/NR202209180025 - What is a Domain Name? (Youtube).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "140549e5b2c8d20c",
   "lastOpenFiles": [
-    "backend-roadmap/2 - Notas Rápidas/NR202209162324 - NIC.BR (Sistemas Autônomos, BGP, PTTs).md",
-    "backend-roadmap/2 - Notas Rápidas/NR202209162314 - NIC.BR (O protocolo IP).md",
-    "backend-roadmap/2 - Notas Rápidas/NR202207042047 - NIC.BR (DNS).md",
-    "NIC.BR (O protocolo IP).md",
+    "backend-roadmap/2 - Notas Rápidas/NR202209180021 - O que é um nome de domínio?.md",
+    "backend-roadmap/2 - Notas Rápidas/NR202209180018 - DNS Records (DNS Records).md",
+    "backend-roadmap/2 - Notas Rápidas/NR202209162324 - NIC.BR (Sistemas Autônomos, BGP, PTTs) (Youtube).md",
+    "backend-roadmap/2 - Notas Rápidas/NR202209162314 - NIC.BR (O protocolo IP) (Youtube).md",
+    "backend-roadmap/2 - Notas Rápidas/NR202207042047 - NIC.BR (DNS) (Youtube).md",
     "backend-roadmap/2 - Notas Rápidas/NR202207022112 - What is DNS? - How DNS works.md",
-    "backend-roadmap/3 - Notas Permanentes/NP202206202316 - Componentes de um Navegador.md",
-    "backend-roadmap/2 - Notas Rápidas/NR202206242318 - How browsers work.md",
-    "backend-roadmap/3 - Notas Permanentes/NP20220516223833 - História da Internet.md",
-    "backend-roadmap/2 - Notas Rápidas/NR202206260031 - Understanding the Role of Rendering Engine in Browsers.md",
-    "backend-roadmap/2 - Notas Rápidas/NR202206252157 - How browsers work (MDN).md"
+    "backend-roadmap/2 - Notas Rápidas/NR202209180009 - DNS and How does it work? (Youtube).md",
+    "README.md",
+    "NIC.BR (O protocolo IP).md",
+    "backend-roadmap/3 - Notas Permanentes/NP202206202316 - Componentes de um Navegador.md"
   ]
 }
