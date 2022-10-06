@@ -7,12 +7,8 @@
         "id": "140549e5b2c8d20c",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "backend-roadmap/2 - Notas Rápidas/NR202210042309 - Introdução à injeção de dependências.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -53,7 +49,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 583.5
+    "width": 286.5
   },
   "right": {
     "id": "e0b7b77e460ce892",
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "backend-roadmap/2 - Notas Rápidas/NR202210042309 - Introdução à injeção de dependências.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +84,15 @@
   },
   "active": "140549e5b2c8d20c",
   "lastOpenFiles": [
+    "backend-roadmap/2 - Notas Rápidas/NR202210052326 - O Codificador Limpo (Youtube).md",
+    "backend-roadmap/2 - Notas Rápidas/NR202210052325 - Clean Architecture (Youtube).md",
+    "backend-roadmap/2 - Notas Rápidas/NR202210042309 - Introdução à injeção de dependências.md",
     "backend-roadmap/2 - Notas Rápidas/NR202210032114 - Entenda CLEAN ARCHITECTURE de uma vez por todas! (YouTube).md",
     "backend-roadmap/2 - Notas Rápidas/NR202210032100 - O que é arquitetura hexagonal? (Alura+).md",
     "backend-roadmap/2 - Notas Rápidas/NR202210032053 - Design de  Código vs Arquitetura de Software (Alura+).md",
     "NR202210032053 - Design de  Código vs Arquitetura de Software [Alura+.md",
     "backend-roadmap/2 - Notas Rápidas/Teste.md",
     "backend-roadmap/2 - Notas Rápidas/NR202209180025 - What is a Domain Name? (Youtube).md",
-    "backend-roadmap/2 - Notas Rápidas/NR202209180021 - O que é um nome de domínio?.md",
-    "backend-roadmap/2 - Notas Rápidas/NR202209180018 - DNS Records (DNS Records).md",
-    "backend-roadmap/2 - Notas Rápidas/NR202209162324 - NIC.BR (Sistemas Autônomos, BGP, PTTs) (Youtube).md",
-    "backend-roadmap/2 - Notas Rápidas/NR202209162314 - NIC.BR (O protocolo IP) (Youtube).md"
+    "backend-roadmap/2 - Notas Rápidas/NR202209180021 - O que é um nome de domínio?.md"
   ]
 }
