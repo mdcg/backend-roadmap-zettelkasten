@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "606181903b5a0695",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "backend-roadmap/2 - Notas Rápidas/NR202211061542 - Learn HTML.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -90,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "backend-roadmap/2 - Notas Rápidas/Domain name vs. URL.md",
+                "file": "backend-roadmap/2 - Notas Rápidas/NR202211061542 - Learn HTML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,8 +120,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f82cf23161dd850e",
+  "active": "606181903b5a0695",
   "lastOpenFiles": [
+    "backend-roadmap/2 - Notas Rápidas/Domain name vs. URL.md",
     "backend-roadmap/2 - Notas Rápidas/NR202211061357 - What is a Domain Name?.md",
     "backend-roadmap/2 - Notas Rápidas/NR202211052332 - Where to Host a Fullstack Project on a Budge.md",
     "backend-roadmap/2 - Notas Rápidas/NR202211052321 - Different Types of Web Hosting Explained! - Shared Hosting vs. VPS Hosting vs. Dedicated Server.md",
@@ -118,7 +131,6 @@
     "backend-roadmap/2 - Notas Rápidas/NR202210052325 - Clean Architecture (Youtube).md",
     "backend-roadmap/2 - Notas Rápidas/NR202210042309 - Introdução à injeção de dependências.md",
     "backend-roadmap/2 - Notas Rápidas/NR202210032114 - Entenda CLEAN ARCHITECTURE de uma vez por todas! (YouTube).md",
-    "backend-roadmap/2 - Notas Rápidas/NR202210032100 - O que é arquitetura hexagonal? (Alura+).md",
-    "backend-roadmap/2 - Notas Rápidas/NR202210032053 - Design de  Código vs Arquitetura de Software (Alura+).md"
+    "backend-roadmap/2 - Notas Rápidas/NR202210032100 - O que é arquitetura hexagonal? (Alura+).md"
   ]
 }
