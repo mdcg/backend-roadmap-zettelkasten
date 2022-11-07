@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "00755291514118de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "backend-roadmap/2 - Notas Rápidas/NR202211070128 - HTML elements reference.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -102,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "backend-roadmap/2 - Notas Rápidas/NR202211061542 - Learn HTML.md",
+                "file": "backend-roadmap/2 - Notas Rápidas/NR202211070128 - HTML elements reference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,8 +132,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "606181903b5a0695",
+  "active": "00755291514118de",
   "lastOpenFiles": [
+    "backend-roadmap/2 - Notas Rápidas/NR202211061542 - Learn HTML.md",
     "backend-roadmap/2 - Notas Rápidas/Domain name vs. URL.md",
     "backend-roadmap/2 - Notas Rápidas/NR202211061357 - What is a Domain Name?.md",
     "backend-roadmap/2 - Notas Rápidas/NR202211052332 - Where to Host a Fullstack Project on a Budge.md",
@@ -130,7 +143,6 @@
     "backend-roadmap/2 - Notas Rápidas/NR202210052326 - O Codificador Limpo (Youtube).md",
     "backend-roadmap/2 - Notas Rápidas/NR202210052325 - Clean Architecture (Youtube).md",
     "backend-roadmap/2 - Notas Rápidas/NR202210042309 - Introdução à injeção de dependências.md",
-    "backend-roadmap/2 - Notas Rápidas/NR202210032114 - Entenda CLEAN ARCHITECTURE de uma vez por todas! (YouTube).md",
-    "backend-roadmap/2 - Notas Rápidas/NR202210032100 - O que é arquitetura hexagonal? (Alura+).md"
+    "backend-roadmap/2 - Notas Rápidas/NR202210032114 - Entenda CLEAN ARCHITECTURE de uma vez por todas! (YouTube).md"
   ]
 }
